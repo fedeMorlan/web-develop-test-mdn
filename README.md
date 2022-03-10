@@ -4,7 +4,7 @@
 This project was created as a test, following MDN tutorials, as one of the last parts of the full Web Development course.
 
 
-( source: https://developer.mozilla.org/es/docs/Learn )
+( source: https://developer.mozilla.org/en-US/docs/Learn )
 
 
 It consists of a simple web page deployed using a particular toolchain:
